@@ -22,6 +22,7 @@ title: Hash Valley
 navbar-links:
   Stats: "https://cexplorer.io/pool/pool1kjd9ff9u5ytq4atavv2dfsg3pvxqw8d50642pzmpn386zel0ka8/"
   Resources:
+    - Yoroi Wallet: "https://yoroi-wallet.com/"
     - Daedalus Wallet: "https://daedaluswallet.io/"
     - Cardano stake calculator: "https://cardano.org/calculator/"
 
